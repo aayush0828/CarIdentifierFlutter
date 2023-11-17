@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 
 class CarApiService {
 static const String baseUrl = 'https://api.api-ninjas.com/v1/cars';
-  static const String apiKey = 'HQFOejzNXetb3Eqv1aoGVA==ChQT6d1ZRcqCw2EY';
+  static const String apiKey = 'addyourownapikey';
 
   Future<List<CarModel>> searchCars({
     String? make,
