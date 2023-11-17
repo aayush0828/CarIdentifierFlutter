@@ -48,7 +48,7 @@ User-friendly and visually appealing interface.
 Explore the world of cars with CarIdentifierApp - Your go-to car recognition and specification app!
 
 ## App ScreenShots
-https://github.com/aayush0828/CarIdentifierFlutter/assets/132382177/7e9462ee-aca9-462f-b152-76e1fb1a51b2
+![caridentifierappmustang]https://github.com/aayush0828/CarIdentifierFlutter/assets/132382177/e66ce6bd-ade1-4b1d-a221-1d8261998e73
 https://github.com/aayush0828/CarIdentifierFlutter/assets/132382177/bb87e096-cb28-488c-870d-ca5b0649510e
 ![caridentifierappimage](https://github.com/aayush0828/CarIdentifierFlutter/assets/132382177/91f91def-de4f-4b52-a825-047a0c902ad0)
 https://github.com/aayush0828/CarIdentifierFlutter/assets/132382177/082ea1cc-1cb1-4d14-b988-afc171ee14ad
