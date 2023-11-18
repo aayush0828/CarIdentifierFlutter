@@ -59,7 +59,9 @@ https://github.com/aayush0828/CarIdentifierFlutter/assets/132382177/73996f31-870
 
 https://github.com/aayush0828/CarIdentifierFlutter/assets/132382177/6ae5991a-cafe-4ca0-9b21-e77b64f3e4a7
 
-![caridentifierappimage](https://github.com/aayush0828/CarIdentifierFlutter/assets/132382177/6574559b-eac1-48a8-bc88-bb527e032e6d)
+
+<img src="https://github.com/aayush0828/CarIdentifierFlutter/assets/132382177/6574559b-eac1-48a8-bc88-bb527e032e6d" alt="caridentifierappimage" width="200">
+
 
 
 https://github.com/aayush0828/CarIdentifierFlutter/assets/132382177/4738e84f-a53c-478e-80af-3e5f575fa469
