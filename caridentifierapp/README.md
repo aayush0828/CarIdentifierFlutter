@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 CarIdentifierApp is a feature-rich Flutter application designed to make the process of recognizing and exploring car specifications seamless. Whether you want to search for a specific car model, identify a car from an image, or delve into detailed specifications, this app has you covered.
 
-## Key Features:
+## Key Features: 
 
 Search Cars: Effortlessly search for cars using make, model, or other specifications.
 
