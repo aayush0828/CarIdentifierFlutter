@@ -4,7 +4,7 @@ class CarModel {
   String fuelType;
   String drive;
   int cylinders;
-  String transmission;
+  String transmission;    
   int year;
   double minCityMpg;
   double maxCityMpg;
