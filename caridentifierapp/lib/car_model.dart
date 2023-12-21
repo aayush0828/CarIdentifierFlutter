@@ -5,7 +5,7 @@ class CarModel {
   String drive;
   int cylinders;
   String transmission;    
-  int year;
+  int year;   
   double minCityMpg;
   double maxCityMpg;
   // Add other relevant fields
