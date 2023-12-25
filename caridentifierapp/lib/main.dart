@@ -18,6 +18,6 @@ class MyApp extends StatelessWidget {
       home: const MySplash(),
       debugShowCheckedModeBanner: false,
     );
-  }
+  }.    
 }
     
