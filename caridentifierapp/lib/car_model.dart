@@ -9,7 +9,7 @@ class CarModel {
   double minCityMpg;
   double maxCityMpg;
   // Add other relevant fields
-
+    
   CarModel({     
     required this.make,
     required this.model,   
