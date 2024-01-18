@@ -12,7 +12,7 @@ class CarModel {
 
   CarModel({
     required this.make,
-    required this.model,
+    required this.model,   
     required this.fuelType,
     required this.drive,
     required this.cylinders,
