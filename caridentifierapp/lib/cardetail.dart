@@ -6,7 +6,7 @@ import 'package:caridentifierapp/widget/fueltype.dart';
 import 'package:caridentifierapp/widget/transmissionwidget.dart';
 import 'package:flutter/material.dart';
 
-class CarDetailPage extends StatelessWidget {
+class CarDetailPage extends StatelessWidget { 
   final CarModel car;
  
   CarDetailPage({required this.car});
