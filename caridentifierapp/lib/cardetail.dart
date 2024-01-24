@@ -8,7 +8,7 @@ import 'package:flutter/material.dart';
 
 class CarDetailPage extends StatelessWidget {
   final CarModel car;
-
+ 
   CarDetailPage({required this.car});
 
   @override
