@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:caridentifierapp/car_model.dart';
-import 'package:http/http.dart' as http;
+import 'package:http/http.dart' as http; 
 
 class CarApiService {
 static const String baseUrl = 'https://api.api-ninjas.com/v1/cars';
