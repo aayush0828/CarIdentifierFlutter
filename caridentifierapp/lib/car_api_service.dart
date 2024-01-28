@@ -6,7 +6,7 @@ class CarApiService {
 static const String baseUrl = 'https://api.api-ninjas.com/v1/cars';
   static const String apiKey = 'addyourownapikey';
 
-  Future<List<CarModel>> searchCars({
+  Future<List<CarModel>> searchCars({ 
     String? make, 
     String? model,
     String? fuelType,
