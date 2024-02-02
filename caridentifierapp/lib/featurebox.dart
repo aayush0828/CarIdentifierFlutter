@@ -8,7 +8,7 @@ class FeatureBox extends StatelessWidget {
   const FeatureBox({
     Key? key,
     required this.color,
-    required this.headerText,
+    required this.headerText, 
     
     this.child,
   }) : super(key: key);
