@@ -1,7 +1,7 @@
 class CarModel {
   String make;
   String model;
-  String fuelType;
+  String fuelType; 
   String drive;
   int cylinders;
   String transmission;    
